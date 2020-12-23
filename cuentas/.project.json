@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2020",
+	"moduleId": "MMLCC",
+	"modules": [
+		{
+			"moduleId": "MMLCC",
+			"moduleName": "Main",
+			"subModules": [
+				{
+					"subModuleId": "SSMMB",
+					"subModuleName": "Main"
+				}
+			]
+		}
+	],
+	"projectName": "cuentas",
+	"subModuleId": "SSMMB"
+}
